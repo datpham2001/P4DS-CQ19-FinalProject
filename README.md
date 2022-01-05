@@ -1,6 +1,6 @@
 # P4DS-CQ19-FinalProject
 
-Danh sách thnành viên trong nhóm:
+Danh sách thành viên trong nhóm:
 
 | MSSV | Tên |
 | - | - |
